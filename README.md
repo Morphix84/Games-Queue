@@ -9,3 +9,4 @@ What do I need to play
 * Divinity: Original Sin
 * Pillars of Eternity
 * Tyranny
+* Prey
