@@ -8,3 +8,4 @@ What do I need to play
 * Horizon Zero Dawn
 * Divinity: Original Sin
 * Pillars of Eternity
+* Tyranny
