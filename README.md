@@ -5,3 +5,8 @@ What do I need to play
 * Divinity: Original Sin
 * Pillars of Eternity
 * Tyranny
+* Satellite Reign
+* Phantom Doctrine
+* Surviving Mars
+* The Talos Principle
+* Tomb Raider
