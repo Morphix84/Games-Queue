@@ -2,6 +2,8 @@
 What do I need to play
 * Battletech
 * God of War
+* Satisfactory
+* State of Decay 2
 * Torment: Tides of Numenera
 * Titanfall 2
 * Divinity: Original Sin
