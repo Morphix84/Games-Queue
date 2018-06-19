@@ -1,9 +1,10 @@
 # Games-Queue
 What do I need to play
-* Battletech
 * God of War
-* Satisfactory
 * State of Decay 2
+* Vampyr
+* Hero-U: Rogue to Redemption
+* Satisfactory
 * Torment: Tides of Numenera
 * Titanfall 2
 * Divinity: Original Sin
@@ -18,7 +19,5 @@ What do I need to play
 * Graveyard Keeper
 * Donky Kong Deep Freeze
 * Captain Toad Treasure Tracker
-* Vampyr
-* Hero-U: Rogue to Redemption
 * Beyond Good and Evil 2
 * Skull and Bones
