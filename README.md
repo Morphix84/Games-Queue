@@ -1,5 +1,9 @@
 # Games-Queue
 What do I need to play
+* Graveyard Keeper
+* Exapunks
+* Sea of Thieves
+* Phantom Doctrine
 * God of War
 * State of Decay 2
 * Vampyr
@@ -8,15 +12,18 @@ What do I need to play
 * Torment: Tides of Numenera
 * Titanfall 2
 * Divinity: Original Sin
+* Divinity: Original Sin 2 Definitive Edition
+* Two Point Hospital
+* Church of Darkness
+* Industries of Titan
+* Starlight Acres
 * Pillars of Eternity
 * Pillars 2
 * Tyranny
 * Satellite Reign
-* Phantom Doctrine
 * Surviving Mars
 * The Talos Principle
 * Tomb Raider
-* Graveyard Keeper
 * Donky Kong Deep Freeze
 * Captain Toad Treasure Tracker
 * Beyond Good and Evil 2
