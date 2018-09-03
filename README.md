@@ -28,3 +28,4 @@ What do I need to play
 * Captain Toad Treasure Tracker
 * Beyond Good and Evil 2
 * Skull and Bones
+* Cyberpunk 2077
