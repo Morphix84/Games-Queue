@@ -5,6 +5,7 @@ What do I need to play
 * Sea of Thieves
 * Phantom Doctrine
 * God of War
+* Untitled Goose Game
 * State of Decay 2
 * Vampyr
 * Hero-U: Rogue to Redemption
