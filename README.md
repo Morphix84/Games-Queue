@@ -1,6 +1,7 @@
 # Games-Queue
 What do I need to play
 
+* Little Inferno
 * Autonauts
 * Shortest Trip to Earth
 * Jedi Fallen Order
