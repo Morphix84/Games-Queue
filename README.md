@@ -1,20 +1,20 @@
 # Games-Queue
 What do I need to play
 
-* Disco Elysium
-* Outer Worlds
-* Control
-* Jedi Fallen Order
-* Outer Wilds
-* Death Stranding
+* Disco Elysium 20-30
+* Outer Worlds 20
+* Control - 17
+* Jedi Fallen Order 20
+* Outer Wilds 18
+* Spiderman 30
+* God of War 31
+* Death Stranding 55
 * Little Inferno
 * Autonauts
 * Shortest Trip to Earth
-* Spiderman
-* God of War
 * Hero-U: Rogue to Redemption
 * Satisfactory
-* Divinity: Original Sin 2 Definitive Edition
+* Divinity: Original Sin 2 Definitive Edition 93
 * Industries of Titan
 * Starlight Acres
 * Satellite Reign
