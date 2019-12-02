@@ -5,8 +5,11 @@ What do I need to play
 * Autonauts
 * Shortest Trip to Earth
 * Jedi Fallen Order
+* Outer Wilds
+* Outer Worlds
 * Death Stranding
 * Control
+* Spiderman
 * God of War
 * Hero-U: Rogue to Redemption
 * Satisfactory
