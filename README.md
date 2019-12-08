@@ -1,7 +1,6 @@
 # Games-Queue
 What do I need to play
 
-* Disco Elysium 20-30
 * Outer Worlds 20
 * Control - 17
 * Jedi Fallen Order 20
