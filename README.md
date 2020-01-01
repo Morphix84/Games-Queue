@@ -1,9 +1,9 @@
 # Games-Queue
 What do I need to play
 
-* Outer Worlds 20
 * Control - 17
-* Jedi Fallen Order 20
+* Outer Worlds 20
+
 * Outer Wilds 18
 * Spiderman 30
 * God of War 31
