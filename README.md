@@ -1,18 +1,17 @@
 # Games-Queue
 What do I need to play
 
-* Control - 17
 * Outer Worlds 20
+* Hero-U: Rogue to Redemption
+* Satisfactory
 
-* Outer Wilds 18
 * Spiderman 30
 * God of War 31
 * Death Stranding 55
 * Little Inferno
 * Autonauts
 * Shortest Trip to Earth
-* Hero-U: Rogue to Redemption
-* Satisfactory
+
 * Divinity: Original Sin 2 Definitive Edition 93
 * Industries of Titan
 * Starlight Acres
