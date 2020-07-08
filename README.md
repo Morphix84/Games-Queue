@@ -5,6 +5,7 @@ What do I need to play
 * Hero-U: Rogue to Redemption
 * Satisfactory
 
+* Ship Breakers
 * Spiderman 30
 * God of War 31
 * Death Stranding 55
