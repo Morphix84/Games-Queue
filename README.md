@@ -9,6 +9,11 @@ What do I need to play
 * Spiderman 30
 * God of War 31
 * Death Stranding 55
+* Carrion
+* Paper Mario Origami King
+* Baldur's Gate 3
+* Avowed
+* Divinity Original Sin 1/2
 * Little Inferno
 * Autonauts
 * Shortest Trip to Earth
