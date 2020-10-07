@@ -14,7 +14,7 @@ What do I need to play
 * Hero-U: Rogue to Redemption
 * Satisfactory
 
-
+* Hades
 * Avowed
 * Divinity Original Sin 1/2
 * Little Inferno
