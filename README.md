@@ -1,8 +1,6 @@
 # Games-Queue
 What do I need to play
 
-* Valheim
-* Dyson Sphere Program
 * Universim
 * Hades
 * Baldur's Gate 3
@@ -12,7 +10,6 @@ What do I need to play
 * Outer Worlds 20
 * Hero-U: Rogue to Redemption
 * Avowed
-* Divinity Original Sin 1/2
 * Little Inferno
 * Autonauts
 * Shortest Trip to Earth
@@ -35,3 +32,7 @@ What do I need to play
 * Final Fantasy VII
 * 12 Minutes
 * Deadly Premonition
+* Overboard!
+* Going Under
+* An Airpor for Aliens Currently Run by Dogs
+* Famicom Detective Club (Both)
