@@ -1,12 +1,15 @@
 # Games-Queue
 What do I need to play
 
+* Echoes of the Eye
+* Pathfinder: Kingmaker
+* God of War PC 31
 * Universim
 * Hades
 * Baldur's Gate 3
 * Star Wars Squadrons
 * Spiderman 30
-* God of War 31
+* Spiderman Miles Morales
 * Outer Worlds 20
 * Hero-U: Rogue to Redemption
 * Avowed
@@ -30,9 +33,6 @@ What do I need to play
 * Wasteland 2
 * Wasteland 3
 * Final Fantasy VII
-* 12 Minutes
 * Deadly Premonition
-* Overboard!
-* Going Under
 * An Airpor for Aliens Currently Run by Dogs
 * Famicom Detective Club (Both)
