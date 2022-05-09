@@ -34,5 +34,17 @@ What do I need to play
 * Wasteland 3
 * Final Fantasy VII
 * Deadly Premonition
-* An Airpor for Aliens Currently Run by Dogs
+* An Airport for Aliens Currently Run by Dogs
 * Famicom Detective Club (Both)
+
+
+**TV Shows**
+
+* Doom Patrol
+* Peacemaker
+* Severance
+* Succession
+* The Book of Boba Fett
+* The Wire
+* The Sopranos
+* Breaking Bad
