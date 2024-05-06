@@ -1,11 +1,22 @@
 # Games-Queue
 What do I need to play
 
-* Pathfinder: Kingmaker
-* Universim
-* Pentiment
 * Dave the Diver
 * Baldur's Gate 3
+* Pathfinder: Kingmaker
+* Zelda Tears of the Kingdom
+* Empire of Sin
+* Tales of the Shire
+* Beyond a Steel Sun
+* Unicorn Overlord
+* Lightyear Frontier
+* Lorelei and the Laser Eyes - May 16
+* World of Goo 2 - May 21
+* Star Wars Outlaws - Aug 30
+* Frostpunk 2 - July 25
+* STALKER 2 - Sept 5
+* Hogwarts Legacy
+* Universim
 * Star Wars Squadrons
 * Hero-U: Rogue to Redemption
 * Avowed
@@ -17,16 +28,12 @@ What do I need to play
 * Industries of Titan
 * Starlight Acres
 * Kirby's Return to Dreamland Deluxe (Feb 23)
-* Hogwarts Legacy (Feb 23)
 * Blood Bowl 3 (Feb 23)
-* Zelda Tears of the Kingdom (May 23)
 * The Talos Principle
 * Tomb Raider
 * Donky Kong Tropical Freeze
 * Beyond Good and Evil 2
 * Skull and Bones (Mar 23)
-* Empire of Sin
-* Beyond a Steel Sun
 * Last of Us Part 2
 * Wasteland 2
 * Wasteland 3
@@ -36,11 +43,7 @@ What do I need to play
 
 **TV Shows**
 
-* Doom Patrol
+* Fallout
+* Picard
 * Peacemaker
-* Severance
-* Succession
 * The Book of Boba Fett
-* The Wire
-* The Sopranos
-* Breaking Bad
