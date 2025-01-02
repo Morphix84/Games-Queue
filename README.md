@@ -5,6 +5,10 @@ What do I need to play
 * Baldur's Gate 3
 * Pathfinder: Kingmaker
 * Zelda Tears of the Kingdom
+* Crow Country
+* Animal Well
+* Steamworld Heist 2
+* Frostpunk 2
 * Empire of Sin
 * Tales of the Shire
 * Beyond a Steel Sun
@@ -13,7 +17,6 @@ What do I need to play
 * Lorelei and the Laser Eyes - May 16
 * World of Goo 2 - May 21
 * Star Wars Outlaws - Aug 30
-* Frostpunk 2 - July 25
 * STALKER 2 - Sept 5
 * Hogwarts Legacy
 * Universim
