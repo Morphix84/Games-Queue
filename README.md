@@ -6,6 +6,7 @@ What do I need to play
 * Pathfinder: Kingmaker
 * Zelda Tears of the Kingdom
 * Crow Country
+* Like a Dragon Infinite Wealth
 * Animal Well
 * Steamworld Heist 2
 * Frostpunk 2
